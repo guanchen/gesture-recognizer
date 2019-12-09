@@ -1,5 +1,7 @@
 # Convolutional Neural Network Coursera Solutions
 
-* Implement convolutional and pooling layers in numpy, including forward and backward propogations 
-* Convolutional model application in tensorflow: recognize gesture signals with around 80% accuracy
+* Week1:
+  * Implement convolutional and pooling layers in NumPy, including forward and backward propogations 
+
+  * Gesture image recognitions: implemented convolutional model in TensorFlow and the model achieved 80% accuracy
 
